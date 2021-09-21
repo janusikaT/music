@@ -1,0 +1,56 @@
+body {
+  background-image: url(muu.jpg);
+}
+div {
+  float: left;
+
+}
+
+#div1 {
+  background: tomato;
+
+}
+
+#div2 {
+  background: yellow;
+
+}
+
+#div3 {
+  background: lightblue;
+
+}
+.myDiv {
+
+  font-size: 25px;
+  font-size-adjust: auto;
+  text-align: left;
+  margin: auto;
+  width: 500px;
+  padding: 15px;
+}
+
+.myDiv1 {
+
+  border: 5px outset blue;
+  background-color: Violet;
+  text-align: left;
+  width: 500px;
+  border: 3px solid red;
+  padding: 15px;
+  border-radius: 25px;
+  font-family:monospace;
+  font-size: 15px;
+}
+
+h1{
+  color: black;
+  font-family: cursive;
+  font-style: normal;
+  font-variant: small-caps;
+  font-size-adjust: auto;
+}
+
+h2{
+  color:Tomato;
+  }
